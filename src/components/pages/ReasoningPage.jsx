@@ -221,7 +221,7 @@ const ReasoningPage = ({ setActiveSection }) => {
                   </div>
 
                   {/* Progress Bar */}
-                  <div className="mb-6">
+                  {/* <div className="mb-6">
                     <div className="flex justify-between text-sm text-gray-400 mb-2">
                       <span>Progress</span>
                       <span>{module.completed}%</span>
@@ -238,7 +238,7 @@ const ReasoningPage = ({ setActiveSection }) => {
                     <Play className="w-5 h-5 mr-2" />
                     Start Challenge
                     <ChevronRight className="w-5 h-5 ml-2" />
-                  </button>
+                  </button> */}
                 </div>
               </div>
             ))}
@@ -322,7 +322,7 @@ const ReasoningPage = ({ setActiveSection }) => {
         </div>
 
         {/* Thinking Skills Progress */}
-        <div className="mb-20">
+        {/* <div className="mb-20">
           <h2 className="text-4xl font-bold text-center mb-12">
             <span className="bg-gradient-to-r from-purple-400 to-violet-400 bg-clip-text text-transparent">
               Thinking Skills Progress
@@ -351,7 +351,7 @@ const ReasoningPage = ({ setActiveSection }) => {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
 
         {/* Brain Training Games */}
         <div className="bg-gradient-to-br from-slate-800/50 to-blue-900/50 backdrop-blur-lg rounded-3xl p-12 border border-blue-500/20">
@@ -382,9 +382,9 @@ const ReasoningPage = ({ setActiveSection }) => {
                 </div>
               </div>
 
-              <button className="bg-gradient-to-r from-blue-500 to-cyan-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-blue-400 hover:to-cyan-500 transition-all duration-300">
+              {/* <button className="bg-gradient-to-r from-blue-500 to-cyan-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-blue-400 hover:to-cyan-500 transition-all duration-300">
                 Start Brain Training
-              </button>
+              </button> */}
             </div>
 
             <div className="relative">

@@ -301,7 +301,7 @@ calculator()`,
                   </div>
 
                   {/* Progress Bar */}
-                  <div className="mb-6">
+                  {/* <div className="mb-6">
                     <div className="flex justify-between text-sm text-gray-400 mb-2">
                       <span>Progress</span>
                       <span>{track.completed}%</span>
@@ -318,7 +318,7 @@ calculator()`,
                     <Play className="w-5 h-5 mr-2" />
                     Start Coding
                     <ChevronRight className="w-5 h-5 ml-2" />
-                  </button>
+                  </button> */}
                 </div>
               </div>
             ))}
@@ -435,9 +435,9 @@ calculator()`,
                   ></div>
                 </div>
 
-                <button className="w-full bg-gradient-to-r from-slate-600 to-slate-700 text-white py-2 px-4 rounded-xl font-medium hover:from-slate-500 hover:to-slate-600 transition-all duration-300">
+                {/* <button className="w-full bg-gradient-to-r from-slate-600 to-slate-700 text-white py-2 px-4 rounded-xl font-medium hover:from-slate-500 hover:to-slate-600 transition-all duration-300">
                   Practice {lang.name}
-                </button>
+                </button> */}
               </div>
             ))}
           </div>
@@ -472,9 +472,9 @@ calculator()`,
                 </div>
               </div>
 
-              <button className="bg-gradient-to-r from-purple-500 to-violet-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-purple-400 hover:to-violet-500 transition-all duration-300">
+              {/* <button className="bg-gradient-to-r from-purple-500 to-violet-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-purple-400 hover:to-violet-500 transition-all duration-300">
                 Start Creating
-              </button>
+              </button> */}
             </div>
 
             <div className="relative">

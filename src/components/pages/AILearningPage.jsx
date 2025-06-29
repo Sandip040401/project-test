@@ -222,7 +222,7 @@ const AILearningPage = ({ setActiveSection }) => {
                   </div>
 
                   {/* Progress Bar */}
-                  <div className="mb-6">
+                  {/* <div className="mb-6">
                     <div className="flex justify-between text-sm text-gray-400 mb-2">
                       <span>Progress</span>
                       <span>{module.completed}%</span>
@@ -239,7 +239,7 @@ const AILearningPage = ({ setActiveSection }) => {
                     <Play className="w-5 h-5 mr-2" />
                     Start AI Journey
                     <ChevronRight className="w-5 h-5 ml-2" />
-                  </button>
+                  </button> */}
                 </div>
               </div>
             ))}
@@ -329,7 +329,7 @@ const AILearningPage = ({ setActiveSection }) => {
         </div>
 
         {/* AI Concepts Progress */}
-        <div className="mb-20">
+        {/* <div className="mb-20">
           <h2 className="text-4xl font-bold text-center mb-12">
             <span className="bg-gradient-to-r from-indigo-400 to-purple-400 bg-clip-text text-transparent">
               AI Mastery Progress
@@ -360,7 +360,7 @@ const AILearningPage = ({ setActiveSection }) => {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
 
         {/* Future AI Section */}
         <div className="bg-gradient-to-br from-slate-800/50 to-purple-900/50 backdrop-blur-lg rounded-3xl p-12 border border-purple-500/20">
@@ -392,10 +392,10 @@ const AILearningPage = ({ setActiveSection }) => {
                 </div>
               </div>
 
-              <button className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-indigo-400 hover:to-purple-500 transition-all duration-300 flex items-center">
+              {/* <button className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-indigo-400 hover:to-purple-500 transition-all duration-300 flex items-center">
                 <Sparkles className="w-6 h-6 mr-3" />
                 Join AI Revolution
-              </button>
+              </button> */}
             </div>
 
             <div className="relative">

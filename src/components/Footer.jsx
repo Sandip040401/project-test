@@ -192,7 +192,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-6">
                 <div className="relative">
-                  <img src="https://images.pexels.com/photos/8613091/pexels-photo-8613091.jpeg?auto=compress&cs=tinysrgb&w=100" alt="AI Excellence Award" className="w-16 h-16 rounded-full border-2 border-cyan-400" />
+                  {/* <img src="https://images.pexels.com/photos/8613091/pexels-photo-8613091.jpeg?auto=compress&cs=tinysrgb&w=100" alt="AI Excellence Award" className="w-16 h-16 rounded-full border-2 border-cyan-400" /> */}
                   <div className="absolute -top-1 -right-1 w-6 h-6 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-full flex items-center justify-center">
                     <Sparkles className="w-3 h-3 text-white" />
                   </div>

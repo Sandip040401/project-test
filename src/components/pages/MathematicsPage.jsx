@@ -206,7 +206,7 @@ const MathematicsPage = ({ setActiveSection }) => {
                   </div>
 
                   {/* Progress Bar */}
-                  <div className="mb-6">
+                  {/* <div className="mb-6">
                     <div className="flex justify-between text-sm text-gray-400 mb-2">
                       <span>Progress</span>
                       <span>{topic.completed}%</span>
@@ -223,7 +223,7 @@ const MathematicsPage = ({ setActiveSection }) => {
                     <Play className="w-5 h-5 mr-2" />
                     Continue Learning
                     <ChevronRight className="w-5 h-5 ml-2" />
-                  </button>
+                  </button> */}
                 </div>
               </div>
             ))}

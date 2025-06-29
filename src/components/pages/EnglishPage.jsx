@@ -215,7 +215,7 @@ const EnglishPage = ({ setActiveSection }) => {
                   </div>
 
                   {/* Progress Bar */}
-                  <div className="mb-6">
+                  {/* <div className="mb-6">
                     <div className="flex justify-between text-sm text-gray-400 mb-2">
                       <span>Progress</span>
                       <span>{skill.completed}%</span>
@@ -232,7 +232,7 @@ const EnglishPage = ({ setActiveSection }) => {
                     <Play className="w-5 h-5 mr-2" />
                     Continue Learning
                     <ChevronRight className="w-5 h-5 ml-2" />
-                  </button>
+                  </button> */}
                 </div>
               </div>
             ))}
@@ -240,7 +240,7 @@ const EnglishPage = ({ setActiveSection }) => {
         </div>
 
         {/* Creative Writing Studio */}
-        <div className="bg-gradient-to-br from-slate-800/50 to-green-900/50 backdrop-blur-lg rounded-3xl p-12 mb-20 border border-green-500/20">
+        {/* <div className="bg-gradient-to-br from-slate-800/50 to-green-900/50 backdrop-blur-lg rounded-3xl p-12 mb-20 border border-green-500/20">
           <div className="text-center mb-8">
             <h3 className="text-4xl font-bold mb-4">
               <span className="bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
@@ -287,7 +287,7 @@ const EnglishPage = ({ setActiveSection }) => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* Grammar Practice */}
         <div className="bg-gradient-to-br from-slate-800/50 to-purple-900/50 backdrop-blur-lg rounded-3xl p-12 mb-20 border border-purple-500/20">
@@ -384,9 +384,9 @@ const EnglishPage = ({ setActiveSection }) => {
                 </div>
               </div>
 
-              <button className="bg-gradient-to-r from-blue-500 to-cyan-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-blue-400 hover:to-cyan-500 transition-all duration-300">
+              {/* <button className="bg-gradient-to-r from-blue-500 to-cyan-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-blue-400 hover:to-cyan-500 transition-all duration-300">
                 Start Reading
-              </button>
+              </button> */}
             </div>
 
             <div className="relative">

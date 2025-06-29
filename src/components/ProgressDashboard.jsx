@@ -220,10 +220,10 @@ const ProgressDashboard = () => {
               </div>
             </div>
             
-            <button className="w-full mt-10 bg-gradient-to-r from-cyan-500 to-purple-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-cyan-400 hover:to-purple-500 transition-all duration-300 shadow-lg hover:shadow-2xl transform hover:scale-105">
+            {/* <button className="w-full mt-10 bg-gradient-to-r from-cyan-500 to-purple-600 text-white py-4 px-8 rounded-xl font-bold text-lg hover:from-cyan-400 hover:to-purple-500 transition-all duration-300 shadow-lg hover:shadow-2xl transform hover:scale-105">
               <Brain className="inline-block w-6 h-6 mr-3" />
               Access AI Portal
-            </button>
+            </button> */}
           </div>
         </div>
       </div>
